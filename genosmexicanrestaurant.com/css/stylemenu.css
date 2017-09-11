@@ -1,0 +1,453 @@
+.contact-color {
+    color: #FFCFAF;
+}
+.white{
+    color: #FFFFFF;
+}
+a h1{
+    color: #ffffff;
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px #000;
+}
+/*div p{
+    text-indent: 8px;
+}*/
+.collapse .well p{
+    color: #000000;
+}
+
+.home{
+    background-color: #FFCFAF;
+}
+body{
+    background-color: #332019;/*#C3B3A8;#BF936C;*/
+}
+.homePage{
+    border: 4px #ffc490 outset;
+    background-color: #40342C;
+    width: 75%;
+    height: 100%;
+}
+.homePage p{
+    color: #FFFFFF;    /*Index page styling*/
+}
+.homeBorder{
+    margin-top: 40px;
+    text-indent: 8px;
+}
+#map_div{
+    margin: 0 auto;
+}
+.list-group{
+    border: inset #E5BA9E;
+    border-radius: 8px;
+}
+
+.list-group li {
+    /*background-image: radial-gradient(#FFC490, #403124  70%);*/
+    background-color: #BF936C;
+    color: #40342C;
+    /*font-family: 'Tangerine', serif;
+    font-size: 30px;*/
+    text-align: center;
+    border: none;
+}
+.header{
+    float: right;
+}
+.header .active-link{
+    color: #FFFFFF;
+    border-bottom: 1px inset;
+}
+.header li{
+    display: inline;
+    margin-right: 20px;
+    font-family: Tangerine, serif;
+    font-size: 25px;
+}
+
+
+.darkLink{
+    color: #FFCFAF;
+}
+.menu{
+    background-color: #40342C;
+}
+#platesHeader, #burritoHeader, #specialsHeader, #sodaHeader, #sidesHeader,
+#beerHeader, #comboHeader, #weekendHeader{
+    background-color: #FFCFAF;
+}
+.main_menu{
+    color: #FFCFAF;
+    font-family: 'Tangerine', serif;
+    font-size: 45px;
+}
+.menuSide p{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFCFAF;
+    padding-left: 5px;
+}
+.menuMargin{
+    margin-bottom: 20px;
+}
+.menu_section{
+    border: 2px #E5BA9E outset;
+    overflow: hidden;
+}
+.about{
+    background-color: #FFCFAF;
+}
+.aboutPage{
+    background-color: #403124;
+    width: 100%;
+    height: 960px;
+}
+
+.gallery{
+    background-color: #40342C;
+}
+.galleryPage{
+    background-color: #40342C;
+    width: 100%;
+    height: 960px;
+}
+.specialFont{
+    font-family: 'Tangerine', serif;
+    font-size: 72px;
+    color: #ffffff;
+}
+.niceFont{
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    color: #FFCFAF;
+}
+.genosFont{
+    font-family: 'Tangerine', serif;
+    font-size: 90px;
+    color: #FFCFAF;
+    text-align: center;
+}
+.whiteFont{
+    font-family: 'Tangerine', serif;
+    font-size: 90px;
+    color: #ffffff;
+    text-align: center;
+}
+.lightFont{ /*Font for index page menu text*/
+    font-family: 'Tangerine', serif;
+    font-size: 90px;
+    color: #7ccabb;
+    text-align: center;
+}
+
+.menuTitle{
+    font-family: 'Tangerine', serif;
+    color: #FFCFAF;
+    text-align: center;
+    font-size: 70px;
+}
+.menuTitleMain{
+    font-family: 'Tangerine', serif;
+    color: #40342C;
+    text-align: center;
+    font-size: 70px;
+}
+.menuItem{
+    /*float: left;
+    clear: both;*/
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    color: #FFCFAF;
+    text-align: justify;
+}
+.menuItemCenter{
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+    color: #FFCFAF;
+    text-align: center;
+}
+.menuDescription{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.menuDescriptionCentered{
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+}
+.image{
+    border: outset;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+.nav li a{
+    color: #FFCFAF;
+}
+.comboOptions{
+    margin-left: 24%;
+}
+
+.left{
+    float: left;
+}
+.right{
+    float: left;
+    margin-left: 100px;
+}
+.image{
+    float: left;
+    margin-top: 20px;
+}
+.itemWImage{
+    float: left;
+    clear: both;
+    margin: 5px 0;
+}
+.center-div{
+    margin-left: 30%;
+}
+.smallFontLight{
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    color: #40342c;
+    text-align: center;
+}
+/*.titleText{
+    background-image: radial-gradient(#40342c, #ffcfaf 70%);
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+}*/
+.title {
+    background-color: #FFCFAF;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px #E5BA9E;
+}
+
+.fancyText{
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    border-bottom: 2px outset;
+    border-top: 2px inset;
+    color: #FFCFAF;
+
+}
+
+.center_text{
+    background-image: radial-gradient(#40342c, #ffcfaf 70%);
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    text-align: center;
+    color: #FFCFAF;
+}
+.hlink{
+    background-image: linear-gradient(#ffffff, #FFCFAF);
+}
+.hlink h1{
+    color: #40342c;
+}
+.mlink{
+    background-image: linear-gradient(#ffffff, #40342C);
+}
+.mlink h1{
+    color: #FFCFAF;
+}
+.alink{
+    background-image: linear-gradient(#ffffff, #FFCFAF);
+}
+.alink h1{
+    color: #40342c;
+}
+.glink{
+    background-image: linear-gradient(#ffffff, #40342C);
+}
+.glink h1{
+    color: #FFCFAF;
+}
+.reverseGallery{
+    background-image: linear-gradient(#40342C, #ffffff);
+}
+.col-md-1{
+    height: 50px;
+}
+.mainRow{
+    background-color: #ffffff;
+}
+.mainRow h1, .mainRow p, h3, h4{
+    text-align: center;
+}
+/*Modal Styling begin*/
+
+.modal-header, .modal-footer {
+    background-color: #BF9B83;
+}
+
+.modal-title {
+    color: #ffffff;
+}
+
+.modal-body {
+    background-color: #7F6758;
+    color: #FFCFAF;
+}
+.modal-content {
+    overflow: hidden;
+}
+.buttonBG {
+    margin-right: 10px;
+    background-color: #40342c;
+    color: #FFCFAF;
+}
+.buttonBG:hover{
+    background-color: #FFCFAF;
+    border: inset;
+}
+/*Modal Styling end*/
+/*Image Gallery Styling start*/
+
+
+
+.imageBorder, .imageBorder1, .imageBorder2, .imageBorder3{
+    width: 125px;
+    height: 125px;
+    float: left;
+    border: 4px inset #FFCFAF;
+    margin-left: 12px;
+    margin-top: 12px;
+}
+.imageDisplay{
+    width: 500px;
+    height: 500px;
+    border: 4px inset #FFCFAF;
+    margin: 0 auto;
+}
+
+.thumbnail:hover{
+    border: none;
+}
+.caption{
+    background-color: #7f6248;
+}
+/*.caption{
+    width: 500px;
+    border: 2px inset #FFCFAF;
+    margin: 10px 0;
+}
+.caption p, .caption h4{
+    color: #FFCFAF;
+}
+.caption p{
+    text-indent: 5px;
+}*/
+
+/*Image gallery styling end*/
+
+/*Start menu last styling*/
+.menuPage{
+    background-color: /*#BF936C;*/#332019;
+    width: 100%;
+    /*height: 960px;*/
+}
+.newMenuItem p{
+    color: #000000;
+}
+.newMenuLabel{
+    text-align: left;
+    color: #000000;
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+}
+.largeText{
+    color: #000000;
+    font-family: 'Tangerine', serif;
+    font-size: 60px;
+    text-align: center;
+}
+.smallMenuLabel{
+    text-align: left;
+    color: #000000;
+    font-family: 'Tangerine', serif;
+    font-size: 40px;
+}
+.newMenuLabelCenter{
+    color: #000000;
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    text-align: center;
+}
+.newMenuHeading p{
+    text-align: center;
+    color: #000000;
+}
+
+.border p, .border ul li{
+    color: #000000;
+}
+.border hr{
+    border: inset 1px;
+}
+.border{
+    border: outset #C3B3A8;
+    background-color: #F6E2BB;
+}
+.middle, .leftSide, .rightSide{
+    background-color: #B6A88B;
+}
+
+.leftSide:hover, .middle:hover, .rightSide:hover{
+    background-color: #F6E2BB;
+}
+.leftSide{
+    margin-bottom: 40px;
+}
+.menuRow{
+    /*border: outset #F6E2BB;
+    background-color: #F6E2BB;*/
+}
+.specialItem{
+    font-size: 60px;
+    text-align: left;
+    color: #000000;
+    font-family: 'Tangerine', serif;
+}
+.menuFont{
+    font-family: 'Tangerine', serif;
+    font-size: 90px;
+    color: #64CC25;/*#5d4c2b;*/
+    text-align: center;
+}
+.smallFont{
+    font-family: 'Tangerine', serif;
+    font-size: 50px;
+    color: #64CC25;/*#5d4c2b;*/
+    text-align: center;
+}
+.lightLink{
+    /*color: #FFCFAF;*/
+    color: #5d4c2b;
+}
+.lightLink:hover{
+    color: #F6E2BB;
+}
+.contact-color-light{
+    color: #5d4c2b;
+}
+
+.price{
+    margin-left: 10%;
+}
+.beers{
+    float: left;
+    list-style-type: none;
+}
+.beerPrice{
+    float: right;
+    list-style-type: none;
+}
+.beerMain{
+    margin-bottom: 20px;
+}
+/*End menu last styling*/
